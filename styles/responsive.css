@@ -1,0 +1,15 @@
+@media (min-width: 900px) {
+  body .link-container {
+    margin: 7% auto;
+  }
+  body .link-container a {
+    width: 400px;
+  }
+}
+@media (max-width: 900px) {
+  body .link-container img {
+    width: 40%;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */
